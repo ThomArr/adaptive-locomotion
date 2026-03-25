@@ -1,7 +1,7 @@
 CC=g++
 CPPFLAGS=-I/mingw64/include -std=c++17 -Wall
 LIBFLAGS=-L/mingw64/lib -lsfml-graphics -lsfml-window -lsfml-system
-EXEC=evolution
+EXEC=evolution.exe
 
 CPPDIR=src
 HPPDIR=lib
